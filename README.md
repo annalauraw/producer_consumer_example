@@ -1,6 +1,6 @@
 # Producer-consumer architecture example
 
-This repository contains some example code to illustrate and discuss a producer-consumer pipeline architecture. It is the reduction of a more complex application. The code is incomplete and not intended to be run as is. 
+This repository contains some example code to illustrate and discuss the producer-consumer pipeline architecture in multi-threaded Python applications. It results from the reduction of a more complex application. The code is incomplete and not intended to be run as is. 
 
 ### What the program does
 
